@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    margin-top: 15%;
+}
+.one p{
+    font-size: 1.8rem;
+}
+.yogaimg1 img{
+    width: 100%;
+}
+.yogaimg2 img{
+    width: 100%;
+}
+.yogaimg2{
+    width: 51%;
+    margin-left: -153px;
+    margin-top: -104px;
+}
+.img11{
+    margin-bottom: 63px;
+}
+.img11 img{
+    height: 287px;
+}
+.img12 img{
+    height: 178px;
+}
